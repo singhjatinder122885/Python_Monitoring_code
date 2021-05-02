@@ -1,1 +1,1 @@
-Hare Krishna
+Hare Krishna Hare Krishna

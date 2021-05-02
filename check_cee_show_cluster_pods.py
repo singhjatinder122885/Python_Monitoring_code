@@ -13,6 +13,7 @@ command2 = "show neighbors"
 ssh_cmd = 'ssh %s@%s %s -p %s % (username, hostname, port)'
 
 
+
 def usage():
     print("usage: %s  <host> <port> <username> <password>" % filename)
     print("required apps: sshpass")
