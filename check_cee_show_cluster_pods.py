@@ -9,6 +9,7 @@ username = sys.argv[3]
 password = sys.argv[4]
 
 command1 = "show cluster pods"
+command2 = "show neighbors"
 ssh_cmd = 'ssh %s@%s %s -p %s % (username, hostname, port)'
 
 
